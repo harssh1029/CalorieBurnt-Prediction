@@ -1,2 +1,3 @@
 # CalorieBurnt-Prediction
-Predicting the number of calories burnt using dataset from Kaggle
+Predicting the number of calories burnt using XGBoost ML algorithm.
+Dataset from Kaggle
